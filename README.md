@@ -14,7 +14,7 @@ https://nodejs.org/en
 Clone current repo
 
 ```sh
-git clone
+git clone https://github.com/wojciech890/goggleMapsSearchTests.git
 ```
 
 Install Playwright dependencies:
